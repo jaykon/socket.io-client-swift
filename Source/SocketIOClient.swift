@@ -25,7 +25,7 @@
 import Dispatch
 import Foundation
 
-/// The main class for SocketIOClientSwift.
+/// The main class for SocketIOClientSwift. by jaykon
 ///
 /// Represents a socket.io-client. Most interaction with socket.io will be through this class.
 open class SocketIOClient : NSObject, SocketIOClientSpec, SocketEngineClient, SocketParsable {
